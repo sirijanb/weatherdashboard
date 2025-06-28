@@ -1,6 +1,6 @@
 # 🌦️ Power BI Weather Dashboard
 
-This repository contains a Power BI dashboard that visualizes real-time and forecasted weather data using the [WeatherAPI](https://www.weatherapi.com/). The dashboard displays key environmental parameters across selected cities and dates, providing clear insights for decision-making and analysis.
+This repository contains a Power BI dashboard that visualizes real-time and 7-day forecasted weather data using the [WeatherAPI](https://www.weatherapi.com/). The dashboard displays key environmental parameters across selected cities and dates, providing clear insights for decision-making and analysis.
 
 ## 📊 Live Report
 
